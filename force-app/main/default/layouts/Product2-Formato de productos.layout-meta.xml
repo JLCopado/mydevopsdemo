@@ -19,6 +19,10 @@
                 <behavior>Edit</behavior>
                 <field>Network_Availability__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Product_Benefit__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

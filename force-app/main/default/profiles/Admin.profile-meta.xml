@@ -7,6 +7,11 @@
         <field>Product2.Network_Availability__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Product2.Product_Benefit__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Product2-Formato de productos</layout>
     </layoutAssignments>
