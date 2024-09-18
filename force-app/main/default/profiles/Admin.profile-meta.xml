@@ -12,11 +12,19 @@
         <field>Lead.Dreamforce_25_Product_Interest__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Product2.FedRAMP_Compliance__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Formato de cuentas</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Lead-Formato de candidatos</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Product2-Formato de productos</layout>
     </layoutAssignments>
     <loginHours n1:nil="true" />
     <loginIpRanges>
