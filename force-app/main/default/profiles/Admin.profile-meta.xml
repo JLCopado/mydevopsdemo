@@ -4,6 +4,11 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Contact.Provider_Location__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Lead.Dreamforce_25_Product_Interest__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -17,6 +22,9 @@
         <field>Product2.Product_Benefit__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>Contact-Formato de contactos</layout>
+    </layoutAssignments>
     <layoutAssignments>
         <layout>Lead-Formato de candidatos</layout>
     </layoutAssignments>

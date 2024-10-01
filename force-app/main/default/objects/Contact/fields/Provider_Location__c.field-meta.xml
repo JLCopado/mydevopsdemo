@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Provider_Location__c</fullName>
+    <label>Provider Location</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Tuffs Medical Center</fullName>
+                <default>false</default>
+                <label>Tuffs Medical Center</label>
+            </value>
+            <value>
+                <fullName>Brigham and Women&apos;s Hospital</fullName>
+                <default>false</default>
+                <label>Brigham and Women&apos;s Hospital</label>
+            </value>
+            <value>
+                <fullName>Boston Children&apos;s Hospital</fullName>
+                <default>false</default>
+                <label>Boston Children&apos;s Hospital</label>
+            </value>
+            <value>
+                <fullName>Bostan Medical Center</fullName>
+                <default>false</default>
+                <label>Bostan Medical Center</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>
