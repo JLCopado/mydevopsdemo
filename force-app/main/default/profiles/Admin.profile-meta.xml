@@ -19,6 +19,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Lead.Hot_Lead__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Product2.FedRAMP_Compliance__c</field>
         <readable>true</readable>
     </fieldPermissions>
