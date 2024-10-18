@@ -39,10 +39,6 @@
                 <behavior>Edit</behavior>
                 <field>Hot_Lead__c</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Wealth_Classification__c</field>
-            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
