@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Cybersecurity_Focus_Area__c</fullName>
+    <label>Cybersecurity Focus Area</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Protect People</fullName>
+                <default>false</default>
+                <label>Protect People</label>
+            </value>
+            <value>
+                <fullName>Defend Data</fullName>
+                <default>false</default>
+                <label>Defend Data</label>
+            </value>
+            <value>
+                <fullName>Mitigate Human Risk</fullName>
+                <default>false</default>
+                <label>Mitigate Human Risk</label>
+            </value>
+            <value>
+                <fullName>Augment Your Capabilities</fullName>
+                <default>false</default>
+                <label>Augment Your Capabilities</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
