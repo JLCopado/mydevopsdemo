@@ -43,6 +43,10 @@
                 <behavior>Edit</behavior>
                 <field>Cybersecurity_Focus_Area__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>NYWT_Lead__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
