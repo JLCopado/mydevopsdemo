@@ -3,7 +3,7 @@
     <apiVersion>62.0</apiVersion>
     <environments>Default</environments>
     <interviewLabel>Lead.Military Tee Time Flow {!$Flow.CurrentDateTime}</interviewLabel>
-    <label>Lead.Military Tee Time Flow</label>
+    <label>Lead.Military Tee Time Flow v2</label>
     <processMetadataValues>
         <name>BuilderType</name>
         <value>
@@ -47,5 +47,5 @@
         <recordTriggerType>Update</recordTriggerType>
         <triggerType>RecordAfterSave</triggerType>
     </start>
-    <status>Draft</status>
+    <status>Active</status>
 </Flow>
