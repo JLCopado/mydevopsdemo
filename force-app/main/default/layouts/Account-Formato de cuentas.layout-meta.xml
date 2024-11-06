@@ -21,7 +21,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Job_Order_Number__c</field>
+                <field>Release_Information__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Erica_Account__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
