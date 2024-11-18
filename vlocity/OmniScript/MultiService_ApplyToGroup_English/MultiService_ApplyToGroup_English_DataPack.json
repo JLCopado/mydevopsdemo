@@ -1,0 +1,28 @@
+{
+    "CurrencyIsoCode": "USD",
+    "CustomHtmlTemplates": "MultiService_ApplyToGroup_English_HTMLTemplates.html",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": false,
+    "IsLocked": false,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "English",
+    "MayEdit": true,
+    "Name": "ApplyToGroup",
+    "OmniProcessElement": [
+        "MultiService_ApplyToGroup_English_Element_StartApplyToGroup.json",
+        "MultiService_ApplyToGroup_English_Element_RedirectToMultiServiceCPQ.json",
+        "MultiService_ApplyToGroup_English_Element_Error.json"
+    ],
+    "OmniProcessType": "OmniScript",
+    "PropertySetConfig": "MultiService_ApplyToGroup_English_PropertySetConfig.json",
+    "SubType": "ApplyToGroup",
+    "Type": "MultiService",
+    "UniqueName": "MultiService_ApplyToGroup_English_2",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/MultiService/ApplyToGroup/English",
+    "WebComponentKey": "b44899c2-12a9-41e5-30b5-10f3fb440096"
+}
