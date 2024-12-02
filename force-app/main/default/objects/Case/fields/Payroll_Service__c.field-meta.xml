@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Payroll_Service__c</fullName>
+    <label>Payroll Service</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Payroll Packages</fullName>
+                <default>false</default>
+                <label>Payroll Packages</label>
+            </value>
+            <value>
+                <fullName>Small Business Payroll</fullName>
+                <default>false</default>
+                <label>Small Business Payroll</label>
+            </value>
+            <value>
+                <fullName>Midsize to Enterprise Payroll</fullName>
+                <default>false</default>
+                <label>Midsize to Enterprise Payroll</label>
+            </value>
+            <value>
+                <fullName>Switch Payroll Companies</fullName>
+                <default>false</default>
+                <label>Switch Payroll Companies</label>
+            </value>
+            <value>
+                <fullName>Payroll Tax Services</fullName>
+                <default>false</default>
+                <label>Payroll Tax Services</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
