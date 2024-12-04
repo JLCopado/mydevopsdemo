@@ -55,6 +55,10 @@
                 <behavior>Edit</behavior>
                 <field>Industry_Type__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Vendor_Interest_Area__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

@@ -64,6 +64,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Lead.Vendor_Interest_Area__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Lead.Wealth_Classification__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -482,6 +487,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ManageExchangeConfig</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManageFilesAndAttachments</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
