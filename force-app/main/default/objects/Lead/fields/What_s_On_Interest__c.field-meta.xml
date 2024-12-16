@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>What_s_On_Interest__c</fullName>
+    <label>What&apos;s On Interest</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Browse Content</fullName>
+                <default>false</default>
+                <label>Browse Content</label>
+            </value>
+            <value>
+                <fullName>Channel Guide</fullName>
+                <default>false</default>
+                <label>Channel Guide</label>
+            </value>
+            <value>
+                <fullName>Music</fullName>
+                <default>false</default>
+                <label>Music</label>
+            </value>
+            <value>
+                <fullName>Sports</fullName>
+                <default>false</default>
+                <label>Sports</label>
+            </value>
+            <value>
+                <fullName>Howard Stern</fullName>
+                <default>false</default>
+                <label>Howard Stern</label>
+            </value>
+            <value>
+                <fullName>News &amp; Issues</fullName>
+                <default>false</default>
+                <label>News &amp; Issues</label>
+            </value>
+            <value>
+                <fullName>Talk &amp; Entertainment</fullName>
+                <default>false</default>
+                <label>Talk &amp; Entertainment</label>
+            </value>
+            <value>
+                <fullName>Comedy</fullName>
+                <default>false</default>
+                <label>Comedy</label>
+            </value>
+            <value>
+                <fullName>Podcasts</fullName>
+                <default>false</default>
+                <label>Podcasts</label>
+            </value>
+            <value>
+                <fullName>Hear &amp; Now Blog</fullName>
+                <default>false</default>
+                <label>Hear &amp; Now Blog</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>
