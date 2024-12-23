@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Technology_Practice_Billing_Type__c</fullName>
+    <label>Technology Practice Billing Type</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Agile</fullName>
+                <default>false</default>
+                <label>Agile</label>
+            </value>
+            <value>
+                <fullName>Architecture</fullName>
+                <default>false</default>
+                <label>Architecture</label>
+            </value>
+            <value>
+                <fullName>AI &amp; Machine Learning</fullName>
+                <default>false</default>
+                <label>AI &amp; Machine Learning</label>
+            </value>
+            <value>
+                <fullName>Big Data &amp; Analytics</fullName>
+                <default>false</default>
+                <label>Big Data &amp; Analytics</label>
+            </value>
+            <value>
+                <fullName>Blockchain</fullName>
+                <default>false</default>
+                <label>Blockchain</label>
+            </value>
+            <value>
+                <fullName>Cloud</fullName>
+                <default>false</default>
+                <label>Cloud</label>
+            </value>
+            <value>
+                <fullName>DevOps</fullName>
+                <default>false</default>
+                <label>DevOps</label>
+            </value>
+            <value>
+                <fullName>Digital Quality Assurance</fullName>
+                <default>false</default>
+                <label>Digital Quality Assurance</label>
+            </value>
+            <value>
+                <fullName>Embedded</fullName>
+                <default>false</default>
+                <label>Embedded</label>
+            </value>
+            <value>
+                <fullName>Mobile</fullName>
+                <default>false</default>
+                <label>Mobile</label>
+            </value>
+            <value>
+                <fullName>Cybersecurity</fullName>
+                <default>false</default>
+                <label>Cybersecurity</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
