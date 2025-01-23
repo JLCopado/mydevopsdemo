@@ -69,6 +69,10 @@
                 <behavior>Edit</behavior>
                 <field>Air_Compressor_Type__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Investment_Planning_Interest__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
