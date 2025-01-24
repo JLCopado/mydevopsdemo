@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Type__c</fullName>
+    <label>Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>General</fullName>
+                <default>false</default>
+                <label>General</label>
+            </value>
+            <value>
+                <fullName>Theft</fullName>
+                <default>false</default>
+                <label>Theft</label>
+            </value>
+            <value>
+                <fullName>Neglect</fullName>
+                <default>false</default>
+                <label>Neglect</label>
+            </value>
+            <value>
+                <fullName>Advising, Selling and Arranging</fullName>
+                <default>false</default>
+                <label>Advising, Selling and Arranging</label>
+            </value>
+            <value>
+                <fullName>Information, Charges, or Product Performance</fullName>
+                <default>false</default>
+                <label>Information, Charges, or Product Performance</label>
+            </value>
+            <value>
+                <fullName>General Admin/ Customer Service</fullName>
+                <default>false</default>
+                <label>General Admin/ Customer Service</label>
+            </value>
+            <value>
+                <fullName>Transaction Related</fullName>
+                <default>false</default>
+                <label>Transaction Related</label>
+            </value>
+            <value>
+                <fullName>Digital or Technology</fullName>
+                <default>false</default>
+                <label>Digital or Technology</label>
+            </value>
+            <value>
+                <fullName>Marketing or Corporate Communications</fullName>
+                <default>false</default>
+                <label>Marketing or Corporate Communications</label>
+            </value>
+            <value>
+                <fullName>Accessibility Issues</fullName>
+                <default>false</default>
+                <label>Accessibility Issues</label>
+            </value>
+            <value>
+                <fullName>Financial Hardship or Collections</fullName>
+                <default>false</default>
+                <label>Financial Hardship or Collections</label>
+            </value>
+            <value>
+                <fullName>Lending / Credit</fullName>
+                <default>false</default>
+                <label>Lending / Credit</label>
+            </value>
+            <value>
+                <fullName>Others</fullName>
+                <default>false</default>
+                <label>Others</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
