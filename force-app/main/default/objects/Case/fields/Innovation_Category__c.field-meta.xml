@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Innovation_Category__c</fullName>
+    <label>Innovation Category</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Grid Reliability &amp; Resilience</fullName>
+                <default>false</default>
+                <label>Grid Reliability &amp; Resilience</label>
+            </value>
+            <value>
+                <fullName>Renewable Energy</fullName>
+                <default>false</default>
+                <label>Renewable Energy</label>
+            </value>
+            <value>
+                <fullName>Technology &amp; Research</fullName>
+                <default>false</default>
+                <label>Technology &amp; Research</label>
+            </value>
+            <value>
+                <fullName>Electrication</fullName>
+                <default>false</default>
+                <label>Electrication</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

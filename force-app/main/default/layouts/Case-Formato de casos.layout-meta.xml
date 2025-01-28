@@ -72,15 +72,19 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>HR_Service__c</field>
+                <field>SLA__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Payroll_Service__c</field>
+                <field>Service_Support_Type__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Business_Insurance_Type__c</field>
+                <field>Product_Line__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Innovation_Category__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
