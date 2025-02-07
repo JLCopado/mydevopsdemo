@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Solution_Area_of_Interest__c</fullName>
+    <label>Solution Area of Interest</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Embrace Generative AI</fullName>
+                <default>false</default>
+                <label>Embrace Generative AI</label>
+            </value>
+            <value>
+                <fullName>Understand My Potential ROI</fullName>
+                <default>false</default>
+                <label>Understand My Potential ROI</label>
+            </value>
+            <value>
+                <fullName>Move to an Open CCaaS Platform</fullName>
+                <default>false</default>
+                <label>Move to an Open CCaaS Platform</label>
+            </value>
+            <value>
+                <fullName>Improve My Service Quality</fullName>
+                <default>false</default>
+                <label>Improve My Service Quality</label>
+            </value>
+            <value>
+                <fullName>Access AI Innovations Now</fullName>
+                <default>false</default>
+                <label>Access AI Innovations Now</label>
+            </value>
+            <value>
+                <fullName>Increase CX Automation</fullName>
+                <default>false</default>
+                <label>Increase CX Automation</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
