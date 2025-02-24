@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LOB_Tracking__c</fullName>
+    <label>LOB Tracking</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Personal banking</fullName>
+                <default>false</default>
+                <label>Personal banking</label>
+            </value>
+            <value>
+                <fullName>Private wealth</fullName>
+                <default>false</default>
+                <label>Private wealth</label>
+            </value>
+            <value>
+                <fullName>Commercial</fullName>
+                <default>false</default>
+                <label>Commercial</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

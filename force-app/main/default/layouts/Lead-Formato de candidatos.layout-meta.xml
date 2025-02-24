@@ -77,6 +77,10 @@
                 <behavior>Edit</behavior>
                 <field>Lead_Product_Interest__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>LOB_Tracking__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
