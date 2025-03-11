@@ -81,6 +81,10 @@
                 <behavior>Edit</behavior>
                 <field>LOB_Tracking__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Market_Focus_Area__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

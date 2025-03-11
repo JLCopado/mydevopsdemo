@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Market_Focus_Area__c</fullName>
+    <label>Market Focus Area</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Hospitals and Health Systems</fullName>
+                <default>false</default>
+                <label>Hospitals and Health Systems</label>
+            </value>
+            <value>
+                <fullName>Ambulatory and Physician Practices</fullName>
+                <default>false</default>
+                <label>Ambulatory and Physician Practices</label>
+            </value>
+            <value>
+                <fullName>Payers</fullName>
+                <default>false</default>
+                <label>Payers</label>
+            </value>
+            <value>
+                <fullName>Partners and Resellers</fullName>
+                <default>false</default>
+                <label>Partners and Resellers</label>
+            </value>
+            <value>
+                <fullName>Life Sciences</fullName>
+                <default>false</default>
+                <label>Life Sciences</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
